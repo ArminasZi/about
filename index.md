@@ -1,4 +1,4 @@
-## Arminas Zilionis - Shopify Developer
+## Arminas Zilionis - 
 
 Shopify projects I've work on:
 
