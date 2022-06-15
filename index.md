@@ -1,8 +1,12 @@
 ## Arminas Zilionis - Shopify Developer
 
-You can use the [editor on GitHub](https://github.com/ArminasZi/about/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Shopify projects I've work on:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Halo coffee](https://halo.coffee/)
+- [Philmio](https://philmio.com)
+- [Marandino](https://marandino.de)
+- [Massmacher](https://massmacher.de)
+- [Grace & Company](https://gracemygrace.com/)
 
 ### Markdown
 
