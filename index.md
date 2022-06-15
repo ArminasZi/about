@@ -2,7 +2,7 @@
 
 ### I work with Shopify to deliver desired ecommerce results. 
 
-Projects I've work on so far:
+Projects I've worked on so far:
 
 - [Halo coffee](https://halo.coffee/)
 - [Philmio](https://philmio.com)
