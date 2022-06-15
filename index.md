@@ -1,4 +1,6 @@
-## Arminas Zilionis - 
+## Arminas Zilionis
+
+### I work with Shopify to deliver desired ecommerce results. 
 
 Shopify projects I've work on:
 
