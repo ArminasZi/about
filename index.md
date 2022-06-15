@@ -5,10 +5,10 @@
 Projects I've worked on so far:
 
 - [Halo coffee](https://halo.coffee/){:target="\_blank"}
-- [Philmio](https://philmio.com){:target="\_blank"}
-- [Marandino](https://marandino.de){:target="\_blank"}
-- [Massmacher](https://massmacher.de){:target="\_blank"}
-- [Grace & Company](https://gracemygrace.com/){:target="\_blank"}
+- [Philmio](https://philmio.com)
+- [Marandino](https://marandino.de)
+- [Massmacher](https://massmacher.de)
+- [Grace & Company](https://gracemygrace.com/)
 - Gehlen (in develoment)
 - Clinic room (in development)
 - Moments in History (in development)
